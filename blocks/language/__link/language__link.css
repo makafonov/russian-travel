@@ -1,0 +1,17 @@
+.language__link {
+  margin-right: 18px;
+  color: #fff;
+  font-weight: normal;
+  font-size: 24px;
+  font-family: Inter, Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  line-height: 28px;
+}
+
+.language__link:last-of-type {
+  margin-right: 0;
+}
+
+.language__link:hover {
+  text-decoration: underline;
+}
