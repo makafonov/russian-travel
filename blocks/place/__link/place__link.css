@@ -1,0 +1,12 @@
+.place__link {
+  border-bottom: 1px solid #fff;
+  color: #fff;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: none;
+}
+
+.place__link:visited {
+  color: #fff;
+}
