@@ -3,6 +3,9 @@
   color: #fff;
   font-weight: normal;
   font-size: 16px;
-  line-height: 18px;
+  line-height: calc(18 / 16);
   text-decoration: none;
+  text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }

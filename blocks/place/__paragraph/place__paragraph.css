@@ -3,7 +3,10 @@
   margin-bottom: 26px;
   font-weight: normal;
   font-size: 18px;
-  line-height: 29px;
+  line-height: calc(29 / 18);
+  text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .place__paragraph:last-of-type {

@@ -3,5 +3,8 @@
   margin-bottom: 40px;
   font-weight: 900;
   font-size: 54px;
-  line-height: 58px;
+  line-height: 1.1;
+  text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
