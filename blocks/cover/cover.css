@@ -1,6 +1,4 @@
 .cover {
   position: relative;
-  width: 100%;
-  max-width: 1184px;
   background: url(../../../images/cover-trains.jpg) no-repeat center / contain;
 }

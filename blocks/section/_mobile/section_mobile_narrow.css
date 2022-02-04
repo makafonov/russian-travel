@@ -1,10 +1,7 @@
-.place__website {
-  grid-area: url;
-  align-self: flex-end;
-}
-
 @media screen and (max-width: 767px) {
-  .place__website {
+  .section_mobile_narrow {
+    min-width: 320px;
+    max-width: calc(100% - 16px * 2);
     padding-right: 16px;
     padding-left: 16px;
   }

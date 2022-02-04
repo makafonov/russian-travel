@@ -1,5 +1,5 @@
 .lead__title {
-  width: 720px;
+  max-width: 720px;
   margin: 0;
   margin-bottom: 32px;
   font-weight: 900;
@@ -9,4 +9,12 @@
   text-rendering: optimizelegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+@media screen and (max-width: 767px) {
+  .lead__title {
+    margin-bottom: 16px;
+    font-size: 40px;
+    line-height: 1.13;
+  }
 }

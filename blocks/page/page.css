@@ -1,23 +1,7 @@
-/* Здесь будут все стили для устройств с viewport больше 1280 пикселей. */
-
 .page {
   max-width: 1280px;
   margin: 0 auto;
   color: #fff;
   font-family: Inter, Tahoma, Geneva, Verdana, sans-serif;
   background-color: #2a2c2f;
-}
-
-@media (max-width: 1279px) {
-  /* Стили для устройств, у которых ширина viewport меньше или равно 1279 пикселей, но больше 1024 пикселей. */
-  .page {
-    background-color: aqua;
-  }
-}
-
-@media (max-width: 1023px) {
-  /* Стили для устройств, у которых ширина viewport меньше или равно 1023 пикселей, но больше 768 пикселей. */
-  .page {
-    background-color: green;
-  }
 }

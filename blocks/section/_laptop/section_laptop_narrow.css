@@ -1,0 +1,7 @@
+@media screen and (max-width: 1279px) {
+  .section_laptop_narrow {
+    max-width: calc(100% - 48px * 2);
+    padding-right: 48px;
+    padding-left: 48px;
+  }
+}

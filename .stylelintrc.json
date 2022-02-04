@@ -11,6 +11,7 @@
     "alpha-value-notation": "number",
     "color-function-notation": "legacy",
     "declaration-empty-line-before": null,
+    "declaration-block-no-redundant-longhand-properties": [ true, { "ignoreShorthands": [ "grid-template" ] } ],
     "function-url-quotes": "never",
     "number-leading-zero": "never",
     "order/properties-order": [],
