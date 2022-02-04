@@ -1,4 +1,4 @@
-.section_desktop_wide {
+.page__item_desktop_wide {
   max-width: calc(100% - 48px * 2);
   padding-right: 48px;
   padding-left: 48px;

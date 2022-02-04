@@ -1,5 +1,5 @@
-@media screen and (max-width: 1023px) {
-  .section_tablet_wide {
+@media screen and (max-width: 1279px) {
+  .page__item_laptop_wide {
     max-width: 100%;
     padding-right: 0;
     padding-left: 0;

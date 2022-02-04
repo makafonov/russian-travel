@@ -1,5 +1,5 @@
 @media screen and (max-width: 767px) {
-  .section_mobile_narrow {
+  .page__item_mobile_narrow {
     min-width: 320px;
     max-width: calc(100% - 16px * 2);
     padding-right: 16px;

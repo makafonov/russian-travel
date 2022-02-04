@@ -1,5 +1,5 @@
 @media screen and (max-width: 1023px) {
-  .section_tablet_narrow {
+  .page__item_tablet_narrow {
     max-width: calc(100% - 24px * 2);
     padding-right: 24px;
     padding-left: 24px;
