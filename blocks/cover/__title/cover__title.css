@@ -7,7 +7,7 @@
   font-size: 72px;
   line-height: calc(76 / 72);
   text-align: center;
-  text-rendering: optimizelegibility;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 767px) {

@@ -4,7 +4,7 @@
   font-weight: 900;
   font-size: 72px;
   line-height: 1.06;
-  text-rendering: optimizelegibility;
+  text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

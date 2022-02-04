@@ -12,6 +12,7 @@
     "color-function-notation": "legacy",
     "declaration-empty-line-before": null,
     "declaration-block-no-redundant-longhand-properties": [ true, { "ignoreShorthands": [ "grid-template" ] } ],
+    "value-keyword-case": [ "lower", { "ignoreKeywords": [ "optimizeLegibility" ] } ],
     "function-url-quotes": "never",
     "number-leading-zero": "never",
     "order/properties-order": [],

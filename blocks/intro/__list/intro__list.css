@@ -5,7 +5,7 @@
   font-size: 12px;
   line-height: 1.48;
   list-style-type: none;
-  text-rendering: optimizelegibility;
+  text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
