@@ -8,6 +8,11 @@
   text-rendering: optimizelegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  transition: opacity .3s ease;
+}
+
+.place__link:hover {
+  opacity: .8;
 }
 
 .place__link:visited {
