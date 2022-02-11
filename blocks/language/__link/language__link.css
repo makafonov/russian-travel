@@ -1,12 +1,10 @@
 .language__link {
-  margin-right: 18px;
+  margin-left: 18px;
+  color: #fff;
   font-weight: normal;
   font-size: 24px;
   line-height: calc(28 / 24);
-}
-
-.language__link:last-of-type {
-  margin-right: 0;
+  text-decoration: none;
 }
 
 .language__link:hover {
